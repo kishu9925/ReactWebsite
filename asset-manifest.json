@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactWebsite/static/css/main.dd446c9a.css",
-    "main.js": "/ReactWebsite/static/js/main.aac01d76.js",
+    "main.js": "/ReactWebsite/static/js/main.a0162a1d.js",
     "static/media/android.png": "/ReactWebsite/static/media/android.158764880567153ca80f.png",
     "static/media/About.png": "/ReactWebsite/static/media/About.74681b0b1d054949cab9.png",
     "static/media/softwear.jpg": "/ReactWebsite/static/media/softwear.8d4efebc593989858918.jpg",
@@ -12,10 +12,10 @@
     "static/media/marketing.jpeg": "/ReactWebsite/static/media/marketing.e0b02c55de4eaac03e40.jpeg",
     "index.html": "/ReactWebsite/index.html",
     "main.dd446c9a.css.map": "/ReactWebsite/static/css/main.dd446c9a.css.map",
-    "main.aac01d76.js.map": "/ReactWebsite/static/js/main.aac01d76.js.map"
+    "main.a0162a1d.js.map": "/ReactWebsite/static/js/main.a0162a1d.js.map"
   },
   "entrypoints": [
     "static/css/main.dd446c9a.css",
-    "static/js/main.aac01d76.js"
+    "static/js/main.a0162a1d.js"
   ]
 }
