@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactWebsite/static/css/main.dd446c9a.css",
+    "main.js": "/ReactWebsite/static/js/main.d7d23946.js",
+    "static/media/android.png": "/ReactWebsite/static/media/android.158764880567153ca80f.png",
+    "static/media/About.png": "/ReactWebsite/static/media/About.74681b0b1d054949cab9.png",
+    "static/media/softwear.jpg": "/ReactWebsite/static/media/softwear.8d4efebc593989858918.jpg",
+    "static/media/web.jpg": "/ReactWebsite/static/media/web.9fe1c2fd3e0bb1ad850e.jpg",
+    "static/media/app.webp": "/ReactWebsite/static/media/app.c964d27708cc73bd97c1.webp",
+    "static/media/Home.png": "/ReactWebsite/static/media/Home.721f4afd9845877a823e.png",
+    "static/media/digital.jpg": "/ReactWebsite/static/media/digital.b739a10ca89d922d1214.jpg",
+    "static/media/marketing.jpeg": "/ReactWebsite/static/media/marketing.e0b02c55de4eaac03e40.jpeg",
+    "index.html": "/ReactWebsite/index.html",
+    "main.dd446c9a.css.map": "/ReactWebsite/static/css/main.dd446c9a.css.map",
+    "main.d7d23946.js.map": "/ReactWebsite/static/js/main.d7d23946.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd446c9a.css",
+    "static/js/main.d7d23946.js"
+  ]
+}
